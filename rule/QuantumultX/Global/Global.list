@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-26 02:09:42
+# UPDATED: 2022-12-27 02:09:56
 # HOST: 380
 # HOST-KEYWORD: 39
 # HOST-SUFFIX: 37699
@@ -8905,7 +8905,6 @@ HOST-SUFFIX,onxxxtube.com,Global
 HOST-SUFFIX,ooni.org,Global
 HOST-SUFFIX,op.gg,Global
 HOST-SUFFIX,op7979.com,Global
-HOST-SUFFIX,openai.com,Global
 HOST-SUFFIX,openamt.com,Global
 HOST-SUFFIX,openapiplatform.com,Global
 HOST-SUFFIX,openapiservice.com,Global
@@ -26970,6 +26969,7 @@ HOST-SUFFIX,ooyala.com,Global
 HOST-SUFFIX,ope99.com,Global
 HOST-SUFFIX,open.com.hk,Global
 HOST-SUFFIX,open.firstory.me,Global
+HOST-SUFFIX,openai.com,Global
 HOST-SUFFIX,openaked.com,Global
 HOST-SUFFIX,openallweb.com,Global
 HOST-SUFFIX,opendemocracy.net,Global

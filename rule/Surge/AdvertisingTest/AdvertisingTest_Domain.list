@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-26 02:07:42
+# UPDATED: 2022-12-27 02:07:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 10647
+# DOMAIN: 10642
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 98741
+# DOMAIN-SUFFIX: 98755
 # IP-CIDR: 239
 # URL-REGEX: 286
-# TOTAL: 110178
+# TOTAL: 110187
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -248,7 +248,6 @@
 519332da.rtc.youme.im
 51junpin.net
 52131e24f3c8f.com
-52av.be
 52lover.info
 5362367e.info
 538b5d8f303be.com
@@ -256,7 +255,6 @@
 56bc7e3668e952c.com
 56vob.cn
 57473b6b571.com
-5754909.com
 5755ac539651fe8f366.com
 58040d4c01949f0c1.com
 58b14921719ec.com
@@ -376,7 +374,6 @@
 84544232a4185d6.com
 8462d0b3cc90c90.com
 8467d2688e4a4.com
-8499683.com
 8503a4170f10a9d.com
 850a54dbd2398a2.com
 857yx.com
@@ -1469,7 +1466,6 @@ bnjrtdsafo.com
 bnjuhrbpdjtjul.com
 bnlqhnqnqveo.com
 bnqfbcnzdt.com
-bnsdk.top
 bnsoutlaws.co.uk
 bnsowzvglhu.com
 bnstnhto.com
@@ -3112,7 +3108,6 @@ fktrlckpmsxx.com
 fkymvojkpdx.com
 flac2flac.xyz
 flagship.asp-host.co.uk
-flan.fun
 flashgamestats.com
 flashsavant.com
 flexknfp.com
@@ -3929,6 +3924,7 @@ hqbphxpavrxry.com
 hqczpetgslammu.com
 hqhrt.com
 hqkwnyub.com
+hqoqbs.xyz
 hqtlbsglscrju.com
 hqtvvfqmfykcrs.com
 hqupjfmq.com
@@ -4193,7 +4189,6 @@ imhizxejm.com
 immscjnenl.com
 impcounter.com
 impeacknow.xyz
-impresivedate.com
 impressionperformance.biz
 impressoras-cartoes.com.pt
 imsnp.com
@@ -4956,6 +4951,7 @@ kwykvodkvg.com
 kwzmlceez.com
 kxbpvlptnkrqvt.com
 kxemsltfmm.com
+kxgo.xyz
 kxicxovlajgoct.com
 kxkeuums.com
 kxpkadaivbm.com
@@ -5675,6 +5671,7 @@ monkeyminer.net
 montezuma.spb.ru
 montmti.top
 montpti.top
+monzexn.cn
 moon-ads.com
 moowouzy.net
 mopub-server.thinknearhub.com
@@ -7562,6 +7559,7 @@ rule34hentai.net
 rules.comscore.akadns.net
 rumimorigu.info
 rumldlbbkhetyv.com
+runn.fun
 rupor.info
 ruzrkjnd.com
 rvbibmaixelnq.com
@@ -8073,6 +8071,7 @@ startraint.com
 stat-data.net
 stat-pulse.com
 stat-well.com
+stat.airdroid.com
 stat08.com
 statelead.com
 statesol.net
@@ -8209,6 +8208,7 @@ szzzpqcuxqq.com
 t.adnxtr.com
 t.hsms06.com
 t.hubspotemail.net
+t.influ2.com
 t.senalcinco.com
 t.senalquatro.com
 t.senaltres.com
@@ -8435,7 +8435,6 @@ tisitewoper.net
 tissage-extension.com
 titorsbutaning.info
 tivioyfstcdlce.com
-tizf7.top
 tj.keymob.com
 tjcorfsynjppv.com
 tjdasfdssd.com
@@ -8519,7 +8518,6 @@ tpkmwnwbzetzbj.com
 tpmrwyhloretut.com
 tpnads.com
 tpqweavlol.com
-tprwnvk.cn
 tpwumuxcasj.com
 tqbmcmttzid.com
 tqddgnqsrya.com
@@ -8964,7 +8962,6 @@ uwehcnmbnfr.com
 uwidtpjwh.com
 uwkwhedvie.com
 uwonderful.ru
-uwuzpxt.cn
 uwxldrvqyk.com
 uwyxmjfqlvhqoy.com
 uxbewzrfyp.com
@@ -9190,7 +9187,6 @@ voioaartgw.com
 vonvthodzhxz.com
 voqdswwgrheo.com
 voqkuiowjtkwgc.com
-vouninked.com
 vounoany.net
 vouzgwau.com
 vovhiwr.com
@@ -9495,7 +9491,6 @@ wjodtshzu.com
 wjpaspdktadog.com
 wjuowevxibmg.com
 wjwontqlqchq.com
-wkbslub.cn
 wkloqctyiyow.com
 wkmg.co.kr
 wkosrsfybeq.com
@@ -12673,6 +12668,7 @@ zzxosget.com
 .528b8.cn
 .5293.com
 .52aan.cn
+.52av.be
 .52c9f48b14.com
 .52homie.cn
 .52kmh.com
@@ -12747,6 +12743,7 @@ zzxosget.com
 .572k3.com
 .573569djd.com
 .5735fda733.com
+.5754909.com
 .57558.com
 .575f4e87970f177969fe.com
 .577682.com
@@ -13570,6 +13567,7 @@ zzxosget.com
 .846.move7.com
 .849558.com
 .8499223.com
+.8499683.com
 .84a196ebc5.com
 .84d5acbe01.com
 .84de26794f.com
@@ -28033,6 +28031,7 @@ zzxosget.com
 .bnrs.it
 .bnrsis.com
 .bnrslks.com
+.bnsdk.top
 .bnserving.com
 .bnsmoi.valx.jp
 .bnster.com
@@ -46617,6 +46616,7 @@ zzxosget.com
 .flameorganizer.com
 .flamingo.abihome.de
 .flamingo.stacking-club.com
+.flan.fun
 .flapnaperer.com
 .flapoint.ru
 .flare.vtube.to
@@ -46787,6 +46787,7 @@ zzxosget.com
 .flwvnqfxwoedg.com
 .flx1.com
 .flxpxl.com
+.fly-ads.net
 .fly.caljetelite.com
 .fly.foggybottomfarm.org
 .fly.gentside.com
@@ -54806,6 +54807,7 @@ zzxosget.com
 .impossiblemove.com
 .imprese.cz
 .impresionesweb.com
+.impresivedate.com
 .impresix.com
 .impreslvedate.com
 .impress.vcita.com
@@ -58955,6 +58957,7 @@ zzxosget.com
 .klert.com
 .klfutm.missamara.com.au
 .klfxq.kieedi.foosheng.com
+.klgzjaw.cn
 .klgzzs.cn
 .klick.vn
 .klick4u.de
@@ -70202,6 +70205,7 @@ zzxosget.com
 .njvfidke.xyz
 .njwxh.com
 .njxczy.com
+.njxjrar.cn
 .njxnsb.paodeacucar.com
 .njxyh66.cn
 .njygp.cn
@@ -94939,6 +94943,7 @@ zzxosget.com
 .tizeroff.ru
 .tizerset.net
 .tizerstock.com
+.tizf7.top
 .tizgo.ru
 .tizru.com
 .tizsistems.ru
@@ -95842,6 +95847,7 @@ zzxosget.com
 .tpnygytjdqvq.com
 .tpool.cn
 .tpqokqi.cn
+.tprwnvk.cn
 .tprzachf.com
 .tptp001.buzz
 .tptrk.ru
@@ -100211,6 +100217,7 @@ zzxosget.com
 .uwogldt.top
 .uwokheqtpxwk.com
 .uwsxz.com
+.uwuzpxt.cn
 .uwwaml.com
 .uwy4.aegon.es
 .uwzknashjrhw.com
@@ -101645,6 +101652,7 @@ zzxosget.com
 .vouky.com
 .voumxy.ru
 .vounaipu.net
+.vouninked.com
 .vouruwou.com
 .vovikshelomov.ru
 .vowcertainly.com
@@ -103739,6 +103747,7 @@ zzxosget.com
 .wkagigmevmdr.com
 .wkanc.com
 .wkanx.com
+.wkbslub.cn
 .wkclick.baidu.com
 .wkctj.baidu.com
 .wkfdymfxmyckr.com

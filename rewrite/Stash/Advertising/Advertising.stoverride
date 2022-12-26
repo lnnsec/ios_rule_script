@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2022-12-26 02:12:21
+desc: 最后更新时间 2022-12-27 02:12:41
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # reject: 546
-# mitm: 493
+# mitm: 494
 # force-http-engine-hosts: 6
-# total: 1045
+# total: 1046
 
 
 
@@ -13,6 +13,7 @@ desc: 最后更新时间 2022-12-26 02:12:21
 
 http:
   rewrite:
+    - ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+/xygj-config-api\/queryData - reject
     - ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+\/allOne\.php\?ad_name - reject
@@ -498,7 +499,6 @@ http:
     - ^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/.+?\.mp4\?sid= - reject
     - ^https?:\/\/venus\.yhd\.com\/memhome\/launchConfig - reject
     - ^https?:\/\/video\.dispatch\.tc\.qq\.com\/\w+\.p20\d\.1\.mp4 - reject
-    - ^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getAdvertInfo - reject
     - ^https?:\/\/vv\.video\.qq\.com\/getvmind\? - reject
     - ^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/ - reject
     - ^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject
@@ -631,6 +631,7 @@ http:
     - "act.vip.iqiyi.com"
     - "activity2.api.ofo.com"
     - "ad.12306.cn"
+    - "adapi.izuiyou.com"
     - "adm.10jqka.com"
     - "adm.10jqka.com.cn"
     - "adpai.thepaper.cn"

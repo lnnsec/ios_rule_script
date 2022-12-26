@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-26 02:09:19
+# UPDATED: 2022-12-27 02:09:32
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37372
@@ -8927,7 +8927,6 @@ payload:
   - '+.ooni.org'
   - '+.op.gg'
   - '+.op7979.com'
-  - '+.openai.com'
   - '+.openamt.com'
   - '+.openapiplatform.com'
   - '+.openapiservice.com'
@@ -26687,6 +26686,7 @@ payload:
   - '+.ope99.com'
   - '+.open.com.hk'
   - '+.open.firstory.me'
+  - '+.openai.com'
   - '+.openaked.com'
   - '+.openallweb.com'
   - '+.opendemocracy.net'

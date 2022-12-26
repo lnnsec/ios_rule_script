@@ -1,5 +1,5 @@
 #!name=AdvertisingLite
-#!desc=最后更新时间 2022-12-26 02:12:33
+#!desc=最后更新时间 2022-12-27 02:12:53
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!reject=501
@@ -10,6 +10,7 @@
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
 
 [URL Rewrite]
+^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject-200
 ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
 ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject-200
 ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
@@ -322,7 +323,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/mapi\.mafengwo\.cn\/ad\/get_launch_ad_list\/v2 - reject
 ^https?:\/\/mapi\.sfbest\.com\/brokerservice-server\/cms\/getPositionById.* - reject
 ^https?:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
-^https?:\/\/mbs\.boc\.cn\/ubas-mgateway-static\/images\/advertType\/.+.jpg - reject-200
+^https?:\/\/mbs\.boc\.cn\/ubas-mgateway-static\/images\/advertType\/.+.jpg - reject-img
 ^https?:\/\/media\.qyer\.com\/ad\/ - reject-200
 ^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg - reject
 ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo$ - reject
@@ -451,7 +452,6 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/.+?\.mp4\?sid= - reject-200
 ^https?:\/\/venus\.yhd\.com\/memhome\/launchConfig - reject
 ^https?:\/\/video\.dispatch\.tc\.qq\.com\/\w+\.p20\d\.1\.mp4 - reject
-^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getAdvertInfo - reject-200
 ^https?:\/\/vv\.video\.qq\.com\/getvmind\? - reject
 ^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/ - reject-200
 ^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject-200

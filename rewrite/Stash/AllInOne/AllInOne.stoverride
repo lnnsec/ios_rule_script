@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2022-12-26 02:12:25
+desc: 最后更新时间 2022-12-27 02:12:45
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 3
@@ -9,9 +9,9 @@ desc: 最后更新时间 2022-12-26 02:12:25
 # http-response-script: 28
 # redirect: 8
 # reject: 520
-# mitm: 554
+# mitm: 555
 # force-http-engine-hosts: 6
-# total: 1122
+# total: 1123
 
 
 
@@ -33,6 +33,7 @@ http:
     - ^https?:\/\/cn\.ultraiso\.net\/ https://cn.ezbsystems.com/ultraiso/ 302
     - ^https?:\/\/hypersnap\.mairuan\.com\/ https://www.keyshot.com/ 302
     - ^https?:\/\/logoshejishi\.mairuan\.com\/ https://www.sothink.com/product/logo-design-software/ 302
+    - ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
@@ -486,7 +487,6 @@ http:
     - ^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/.+?\.mp4\?sid= - reject
     - ^https?:\/\/venus\.yhd\.com\/memhome\/launchConfig - reject
     - ^https?:\/\/video\.dispatch\.tc\.qq\.com\/\w+\.p20\d\.1\.mp4 - reject
-    - ^https?:\/\/vip7\.fzwdyy\.cn:8083\/api\/getAdvertInfo - reject
     - ^https?:\/\/vv\.video\.qq\.com\/getvmind\? - reject
     - ^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/ - reject
     - ^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject
@@ -826,6 +826,7 @@ http:
     - "act.vip.iqiyi.com"
     - "activity2.api.ofo.com"
     - "ad.12306.cn"
+    - "adapi.izuiyou.com"
     - "adm.10jqka.com"
     - "adm.10jqka.com.cn"
     - "adpai.thepaper.cn"
