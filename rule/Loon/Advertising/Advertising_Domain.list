@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:07:07
+# UPDATED: 2022-12-28 02:07:39
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14577
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77780
+# DOMAIN-SUFFIX: 77797
 # IP-CIDR: 238
 # URL-REGEX: 286
-# TOTAL: 92958
+# TOTAL: 92975
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -18933,6 +18933,7 @@ zzxosget.com
 .abgdqfuujl.xyz
 .abgeobalancer.com
 .abgligarchan.com
+.abgxxc.com
 .abh.jp
 .abhorboring.com
 .abhorcarious.com
@@ -21656,6 +21657,7 @@ zzxosget.com
 .ads-6686.top
 .ads-admin.hubs.vn
 .ads-api.playfun.vn
+.ads-api.twitter.com
 .ads-backend.nhadatmoi.net
 .ads-bidder-api.twitter.com
 .ads-cdn.fptplay.net
@@ -24960,6 +24962,7 @@ zzxosget.com
 .analytics.convertlanguage.com
 .analytics.core.retell.cc
 .analytics.corusent.com
+.analytics.crea.ca
 .analytics.cynapse.com
 .analytics.daasrv.net
 .analytics.dap-networks.de
@@ -32800,6 +32803,7 @@ zzxosget.com
 .chuantu.biz
 .chuary.com
 .chubaka.org
+.chubbycreature.com
 .chucity.com
 .chuckledinadmissible.com
 .chudongcaiwu.xyz
@@ -32952,6 +32956,7 @@ zzxosget.com
 .cj.qidian.com
 .cj1.256.cc
 .cj7g.top
+.cja-1223.cc
 .cjbdme.conquer.org
 .cjbmanagement.com
 .cjcqls.onbuy.com
@@ -47062,6 +47067,7 @@ zzxosget.com
 .hatefulrequest.com
 .hathor.eztonez.com
 .hathyneglu.com
+.hatmiso.net
 .hatrecord.ru
 .hats-47b.com
 .hats.haibao.cn
@@ -48323,6 +48329,7 @@ zzxosget.com
 .hqgjcm.com
 .hqmetrics.sony.com
 .hqoadthspnju.com
+.hqoqbs.xyz
 .hqpass.com
 .hqqpw.mobi
 .hqrsuxsjqycv.info
@@ -52892,6 +52899,7 @@ zzxosget.com
 .kleinfelder.fr
 .klenhosnc.com
 .klert.com
+.klgzjaw.cn
 .klgzzs.cn
 .klick.vn
 .klick4u.de
@@ -53408,6 +53416,7 @@ zzxosget.com
 .kwyuivlaychxe.com
 .kxapctq.cn
 .kxclorpruisyo.com
+.kxgo.xyz
 .kxhie.com
 .kxizloe.cn
 .kxla.xyz
@@ -59373,6 +59382,7 @@ zzxosget.com
 .monu.delivery
 .monumentsmaterialeasel.com
 .monxserver.com
+.monzexn.cn
 .mooaleoat.com
 .mooantink.com
 .moocauby.com
@@ -61254,6 +61264,7 @@ zzxosget.com
 .njvfidke.xyz
 .njwxh.com
 .njxczy.com
+.njxjrar.cn
 .njxyh66.cn
 .njygp.cn
 .njyyk.com
@@ -66543,6 +66554,7 @@ zzxosget.com
 .promoggaqjkd.ru
 .promogrim.fr
 .promoheads.com
+.promolayer.io
 .promopassage.com
 .promoreclame.info
 .promoreclame.nl
@@ -70330,6 +70342,7 @@ zzxosget.com
 .runkleatemoya.com
 .runmeethoomes.info
 .runmewivel.com
+.runn.fun
 .runnerswolrd.fr
 .runningman.site
 .runreferences.com
@@ -76214,6 +76227,7 @@ zzxosget.com
 .stat.56.com
 .stat.acca.it
 .stat.adguard.com
+.stat.airdroid.com
 .stat.alibaba.com
 .stat.alloha.tv
 .stat.altalex.com
@@ -76415,6 +76429,7 @@ zzxosget.com
 .static.prototypes.ru
 .static.rek.ai
 .static.rekai.se
+.static.rongkao.com
 .static.smni.com
 .static.stat.truthlyanalytics.com
 .static.step.dk
@@ -78444,6 +78459,7 @@ zzxosget.com
 .t.hypers.com.cn
 .t.imgur.com
 .t.indeed.com
+.t.influ2.com
 .t.influact.com
 .t.irtyc.com
 .t.iz55.com
@@ -85723,6 +85739,7 @@ zzxosget.com
 .vqd51a5.biz.ua
 .vqdjcy.com
 .vqfqo.us
+.vqhifd.xyz
 .vqhlhfjmvcvxw.com
 .vqieahnhdle.com
 .vqjxlie.cn

@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:07:09
+# UPDATED: 2022-12-28 02:07:41
 # DOMAIN: 14577
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77780
+# DOMAIN-SUFFIX: 77797
 # IP-CIDR: 238
-# TOTAL: 92672
+# TOTAL: 92689
 DOMAIN,ad.xy2013.cn
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
@@ -16545,6 +16545,7 @@ DOMAIN-SUFFIX,abevc.club
 DOMAIN-SUFFIX,abfhdifvjed.xyz
 DOMAIN-SUFFIX,abgdqfuujl.xyz
 DOMAIN-SUFFIX,abgeobalancer.com
+DOMAIN-SUFFIX,abgxxc.com
 DOMAIN-SUFFIX,abh.jp
 DOMAIN-SUFFIX,abhorboring.com
 DOMAIN-SUFFIX,abhorcarious.com
@@ -18085,6 +18086,7 @@ DOMAIN-SUFFIX,adrunner.pricerunner.se
 DOMAIN-SUFFIX,ads-6686.top
 DOMAIN-SUFFIX,ads-admin.hubs.vn
 DOMAIN-SUFFIX,ads-api.playfun.vn
+DOMAIN-SUFFIX,ads-api.twitter.com
 DOMAIN-SUFFIX,ads-backend.nhadatmoi.net
 DOMAIN-SUFFIX,ads-bidder-api.twitter.com
 DOMAIN-SUFFIX,ads-cdn.fptplay.net
@@ -20766,6 +20768,7 @@ DOMAIN-SUFFIX,analytics.cloudron.io
 DOMAIN-SUFFIX,analytics.cn.ru
 DOMAIN-SUFFIX,analytics.cnd-motionmedia.de
 DOMAIN-SUFFIX,analytics.core.retell.cc
+DOMAIN-SUFFIX,analytics.crea.ca
 DOMAIN-SUFFIX,analytics.dap-networks.de
 DOMAIN-SUFFIX,analytics.datasavannah.com
 DOMAIN-SUFFIX,analytics.diamondstarfinancial.com.vn
@@ -26265,6 +26268,7 @@ DOMAIN-SUFFIX,chuangjulm.cn
 DOMAIN-SUFFIX,chuangmeiteyi.net
 DOMAIN-SUFFIX,chuary.com
 DOMAIN-SUFFIX,chubaka.org
+DOMAIN-SUFFIX,chubbycreature.com
 DOMAIN-SUFFIX,chuckledinadmissible.com
 DOMAIN-SUFFIX,chudongcaiwu.xyz
 DOMAIN-SUFFIX,chultoux.com
@@ -26378,6 +26382,7 @@ DOMAIN-SUFFIX,cizion.com
 DOMAIN-SUFFIX,cj.com
 DOMAIN-SUFFIX,cj.madeleine.de
 DOMAIN-SUFFIX,cj7g.top
+DOMAIN-SUFFIX,cja-1223.cc
 DOMAIN-SUFFIX,cjbmanagement.com
 DOMAIN-SUFFIX,cjde.xyz
 DOMAIN-SUFFIX,cjenxpjxxhdwtp.xyz
@@ -35750,6 +35755,7 @@ DOMAIN-SUFFIX,hatedgeographical.com
 DOMAIN-SUFFIX,hatefulredheadstone.com
 DOMAIN-SUFFIX,hathor.eztonez.com
 DOMAIN-SUFFIX,hathyneglu.com
+DOMAIN-SUFFIX,hatmiso.net
 DOMAIN-SUFFIX,hatrecord.ru
 DOMAIN-SUFFIX,hats-47b.com
 DOMAIN-SUFFIX,hatsadamantpushed.com
@@ -36637,6 +36643,7 @@ DOMAIN-SUFFIX,hqbypgemclykwc.xyz
 DOMAIN-SUFFIX,hqcqz2.cn
 DOMAIN-SUFFIX,hqdfh.mobi
 DOMAIN-SUFFIX,hqoadthspnju.com
+DOMAIN-SUFFIX,hqoqbs.xyz
 DOMAIN-SUFFIX,hqpass.com
 DOMAIN-SUFFIX,hqqpw.mobi
 DOMAIN-SUFFIX,hqrsuxsjqycv.info
@@ -39646,6 +39653,7 @@ DOMAIN-SUFFIX,klefigaro.fr
 DOMAIN-SUFFIX,kleinfelder.fr
 DOMAIN-SUFFIX,klenhosnc.com
 DOMAIN-SUFFIX,klert.com
+DOMAIN-SUFFIX,klgzjaw.cn
 DOMAIN-SUFFIX,klick.vn
 DOMAIN-SUFFIX,klick4u.de
 DOMAIN-SUFFIX,klickly.com
@@ -40023,6 +40031,7 @@ DOMAIN-SUFFIX,kwvnnfeok.com
 DOMAIN-SUFFIX,kwyuivlaychxe.com
 DOMAIN-SUFFIX,kxapctq.cn
 DOMAIN-SUFFIX,kxclorpruisyo.com
+DOMAIN-SUFFIX,kxgo.xyz
 DOMAIN-SUFFIX,kxizloe.cn
 DOMAIN-SUFFIX,kxla.xyz
 DOMAIN-SUFFIX,kxldvcytb.xyz
@@ -43633,6 +43642,7 @@ DOMAIN-SUFFIX,montpdp.top
 DOMAIN-SUFFIX,montwam.top
 DOMAIN-SUFFIX,monumentsmaterialeasel.com
 DOMAIN-SUFFIX,monxserver.com
+DOMAIN-SUFFIX,monzexn.cn
 DOMAIN-SUFFIX,mooantink.com
 DOMAIN-SUFFIX,moocauby.com
 DOMAIN-SUFFIX,moochescramper.com
@@ -45053,6 +45063,7 @@ DOMAIN-SUFFIX,njmbgc.cn
 DOMAIN-SUFFIX,njs.manhuahome.com
 DOMAIN-SUFFIX,njupt-sacc.com
 DOMAIN-SUFFIX,njvfidke.xyz
+DOMAIN-SUFFIX,njxjrar.cn
 DOMAIN-SUFFIX,njxyh66.cn
 DOMAIN-SUFFIX,njygp.cn
 DOMAIN-SUFFIX,nkcfhm.cn
@@ -48887,6 +48898,7 @@ DOMAIN-SUFFIX,promobuster.org
 DOMAIN-SUFFIX,promoggaqjkd.ru
 DOMAIN-SUFFIX,promogrim.fr
 DOMAIN-SUFFIX,promoheads.com
+DOMAIN-SUFFIX,promolayer.io
 DOMAIN-SUFFIX,promoreclame.info
 DOMAIN-SUFFIX,promoreclame.nl
 DOMAIN-SUFFIX,promos.bwin.it
@@ -51749,6 +51761,7 @@ DOMAIN-SUFFIX,rungginlout.com
 DOMAIN-SUFFIX,rungglasses.com
 DOMAIN-SUFFIX,runkleatemoya.com
 DOMAIN-SUFFIX,runmewivel.com
+DOMAIN-SUFFIX,runn.fun
 DOMAIN-SUFFIX,runnerswolrd.fr
 DOMAIN-SUFFIX,runningman.site
 DOMAIN-SUFFIX,runreferences.com
@@ -54497,6 +54510,7 @@ DOMAIN-SUFFIX,stat-track.com
 DOMAIN-SUFFIX,stat.4u.pl
 DOMAIN-SUFFIX,stat.56.com
 DOMAIN-SUFFIX,stat.adguard.com
+DOMAIN-SUFFIX,stat.airdroid.com
 DOMAIN-SUFFIX,stat.alloha.tv
 DOMAIN-SUFFIX,stat.analytiall.com
 DOMAIN-SUFFIX,stat.cliche.se
@@ -54591,6 +54605,7 @@ DOMAIN-SUFFIX,static.pgyer.com
 DOMAIN-SUFFIX,static.prototypes.ru
 DOMAIN-SUFFIX,static.rek.ai
 DOMAIN-SUFFIX,static.rekai.se
+DOMAIN-SUFFIX,static.rongkao.com
 DOMAIN-SUFFIX,static.smni.com
 DOMAIN-SUFFIX,static.stat.truthlyanalytics.com
 DOMAIN-SUFFIX,static.step.dk
@@ -55574,6 +55589,7 @@ DOMAIN-SUFFIX,t.fml.rip
 DOMAIN-SUFFIX,t.frtyg.com
 DOMAIN-SUFFIX,t.frtyi.com
 DOMAIN-SUFFIX,t.imgur.com
+DOMAIN-SUFFIX,t.influ2.com
 DOMAIN-SUFFIX,t.influact.com
 DOMAIN-SUFFIX,t.karte.io
 DOMAIN-SUFFIX,t.lidyana.com
@@ -60127,6 +60143,7 @@ DOMAIN-SUFFIX,vq91811.com
 DOMAIN-SUFFIX,vqd51a5.biz.ua
 DOMAIN-SUFFIX,vqdjcy.com
 DOMAIN-SUFFIX,vqfqo.us
+DOMAIN-SUFFIX,vqhifd.xyz
 DOMAIN-SUFFIX,vqhlhfjmvcvxw.com
 DOMAIN-SUFFIX,vqieahnhdle.com
 DOMAIN-SUFFIX,vqjxlie.cn

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:09:32
+# UPDATED: 2022-12-28 02:10:21
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37372
+# DOMAIN-SUFFIX: 37377
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37692
+# TOTAL: 37697
 DOMAIN,abematv.akamaized.net
 DOMAIN,amp.akamaized.net
 DOMAIN,angle.com.tw
@@ -1608,6 +1608,7 @@ DOMAIN-SUFFIX,bcrncdn.com
 DOMAIN-SUFFIX,bcvp0rtal.com
 DOMAIN-SUFFIX,bdawnvr.xyz
 DOMAIN-SUFFIX,bdn.dev
+DOMAIN-SUFFIX,bdsm-mov.net
 DOMAIN-SUFFIX,bdsm.com
 DOMAIN-SUFFIX,bdsmboard.org
 DOMAIN-SUFFIX,bdsmbunker.com
@@ -2871,6 +2872,7 @@ DOMAIN-SUFFIX,cheapwireless04.com
 DOMAIN-SUFFIX,cheapwirelessbeats.com
 DOMAIN-SUFFIX,chemnetbase.com
 DOMAIN-SUFFIX,chengjuanseo.com
+DOMAIN-SUFFIX,cherry-tale.com
 DOMAIN-SUFFIX,cherryasia.com
 DOMAIN-SUFFIX,cherrybrady.com
 DOMAIN-SUFFIX,cherrynudes.com
@@ -4194,6 +4196,7 @@ DOMAIN-SUFFIX,ero-kawa.com
 DOMAIN-SUFFIX,ero-labs.com
 DOMAIN-SUFFIX,ero-labs.net
 DOMAIN-SUFFIX,ero-labs.online
+DOMAIN-SUFFIX,ero-labs.site
 DOMAIN-SUFFIX,ero-ma-nia.com
 DOMAIN-SUFFIX,ero-manga-platinum.net
 DOMAIN-SUFFIX,ero-mangalife.com
@@ -7529,6 +7532,7 @@ DOMAIN-SUFFIX,manga18.art
 DOMAIN-SUFFIX,mangahentai.me
 DOMAIN-SUFFIX,mangahome.com
 DOMAIN-SUFFIX,mangoporn.net
+DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,manhub.com
 DOMAIN-SUFFIX,manhunt.net
 DOMAIN-SUFFIX,manhuntdaily.com
@@ -11222,6 +11226,7 @@ DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texttobuy.org
 DOMAIN-SUFFIX,texture.com
+DOMAIN-SUFFIX,tferwq.com
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,tgirlcentral.com
 DOMAIN-SUFFIX,tgirlpostop.com

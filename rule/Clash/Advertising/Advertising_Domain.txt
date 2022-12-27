@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:07:09
+# UPDATED: 2022-12-28 02:07:41
 # DOMAIN: 14577
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77780
+# DOMAIN-SUFFIX: 77797
 # IP-CIDR: 238
-# TOTAL: 92672
+# TOTAL: 92689
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -16545,6 +16545,7 @@ opencloud.wostore.cn
 .abfhdifvjed.xyz
 .abgdqfuujl.xyz
 .abgeobalancer.com
+.abgxxc.com
 .abh.jp
 .abhorboring.com
 .abhorcarious.com
@@ -18085,6 +18086,7 @@ opencloud.wostore.cn
 .ads-6686.top
 .ads-admin.hubs.vn
 .ads-api.playfun.vn
+.ads-api.twitter.com
 .ads-backend.nhadatmoi.net
 .ads-bidder-api.twitter.com
 .ads-cdn.fptplay.net
@@ -20766,6 +20768,7 @@ opencloud.wostore.cn
 .analytics.cn.ru
 .analytics.cnd-motionmedia.de
 .analytics.core.retell.cc
+.analytics.crea.ca
 .analytics.dap-networks.de
 .analytics.datasavannah.com
 .analytics.diamondstarfinancial.com.vn
@@ -26265,6 +26268,7 @@ opencloud.wostore.cn
 .chuangmeiteyi.net
 .chuary.com
 .chubaka.org
+.chubbycreature.com
 .chuckledinadmissible.com
 .chudongcaiwu.xyz
 .chultoux.com
@@ -26378,6 +26382,7 @@ opencloud.wostore.cn
 .cj.com
 .cj.madeleine.de
 .cj7g.top
+.cja-1223.cc
 .cjbmanagement.com
 .cjde.xyz
 .cjenxpjxxhdwtp.xyz
@@ -35750,6 +35755,7 @@ opencloud.wostore.cn
 .hatefulredheadstone.com
 .hathor.eztonez.com
 .hathyneglu.com
+.hatmiso.net
 .hatrecord.ru
 .hats-47b.com
 .hatsadamantpushed.com
@@ -36637,6 +36643,7 @@ opencloud.wostore.cn
 .hqcqz2.cn
 .hqdfh.mobi
 .hqoadthspnju.com
+.hqoqbs.xyz
 .hqpass.com
 .hqqpw.mobi
 .hqrsuxsjqycv.info
@@ -39646,6 +39653,7 @@ opencloud.wostore.cn
 .kleinfelder.fr
 .klenhosnc.com
 .klert.com
+.klgzjaw.cn
 .klick.vn
 .klick4u.de
 .klickly.com
@@ -40023,6 +40031,7 @@ opencloud.wostore.cn
 .kwyuivlaychxe.com
 .kxapctq.cn
 .kxclorpruisyo.com
+.kxgo.xyz
 .kxizloe.cn
 .kxla.xyz
 .kxldvcytb.xyz
@@ -43633,6 +43642,7 @@ opencloud.wostore.cn
 .montwam.top
 .monumentsmaterialeasel.com
 .monxserver.com
+.monzexn.cn
 .mooantink.com
 .moocauby.com
 .moochescramper.com
@@ -45053,6 +45063,7 @@ opencloud.wostore.cn
 .njs.manhuahome.com
 .njupt-sacc.com
 .njvfidke.xyz
+.njxjrar.cn
 .njxyh66.cn
 .njygp.cn
 .nkcfhm.cn
@@ -48887,6 +48898,7 @@ opencloud.wostore.cn
 .promoggaqjkd.ru
 .promogrim.fr
 .promoheads.com
+.promolayer.io
 .promoreclame.info
 .promoreclame.nl
 .promos.bwin.it
@@ -51749,6 +51761,7 @@ opencloud.wostore.cn
 .rungglasses.com
 .runkleatemoya.com
 .runmewivel.com
+.runn.fun
 .runnerswolrd.fr
 .runningman.site
 .runreferences.com
@@ -54497,6 +54510,7 @@ opencloud.wostore.cn
 .stat.4u.pl
 .stat.56.com
 .stat.adguard.com
+.stat.airdroid.com
 .stat.alloha.tv
 .stat.analytiall.com
 .stat.cliche.se
@@ -54591,6 +54605,7 @@ opencloud.wostore.cn
 .static.prototypes.ru
 .static.rek.ai
 .static.rekai.se
+.static.rongkao.com
 .static.smni.com
 .static.stat.truthlyanalytics.com
 .static.step.dk
@@ -55574,6 +55589,7 @@ opencloud.wostore.cn
 .t.frtyg.com
 .t.frtyi.com
 .t.imgur.com
+.t.influ2.com
 .t.influact.com
 .t.karte.io
 .t.lidyana.com
@@ -60127,6 +60143,7 @@ opencloud.wostore.cn
 .vqd51a5.biz.ua
 .vqdjcy.com
 .vqfqo.us
+.vqhifd.xyz
 .vqhlhfjmvcvxw.com
 .vqieahnhdle.com
 .vqjxlie.cn

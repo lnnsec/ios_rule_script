@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:09:56
+# UPDATED: 2022-12-28 02:10:46
 # HOST: 380
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37699
+# HOST-SUFFIX: 37704
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38273
+# TOTAL: 38278
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
@@ -1796,6 +1796,7 @@ HOST-SUFFIX,bcrncdn.com,Global
 HOST-SUFFIX,bcvp0rtal.com,Global
 HOST-SUFFIX,bdawnvr.xyz,Global
 HOST-SUFFIX,bdn.dev,Global
+HOST-SUFFIX,bdsm-mov.net,Global
 HOST-SUFFIX,bdsm.com,Global
 HOST-SUFFIX,bdsmboard.org,Global
 HOST-SUFFIX,bdsmbunker.com,Global
@@ -3036,6 +3037,7 @@ HOST-SUFFIX,cheapwireless04.com,Global
 HOST-SUFFIX,cheapwirelessbeats.com,Global
 HOST-SUFFIX,chemnetbase.com,Global
 HOST-SUFFIX,chengjuanseo.com,Global
+HOST-SUFFIX,cherry-tale.com,Global
 HOST-SUFFIX,cherryasia.com,Global
 HOST-SUFFIX,cherrybrady.com,Global
 HOST-SUFFIX,cherrynudes.com,Global
@@ -4344,6 +4346,7 @@ HOST-SUFFIX,ero-kawa.com,Global
 HOST-SUFFIX,ero-labs.com,Global
 HOST-SUFFIX,ero-labs.net,Global
 HOST-SUFFIX,ero-labs.online,Global
+HOST-SUFFIX,ero-labs.site,Global
 HOST-SUFFIX,ero-ma-nia.com,Global
 HOST-SUFFIX,ero-manga-platinum.net,Global
 HOST-SUFFIX,ero-mangalife.com,Global
@@ -7521,6 +7524,7 @@ HOST-SUFFIX,manga18.art,Global
 HOST-SUFFIX,mangahentai.me,Global
 HOST-SUFFIX,mangahome.com,Global
 HOST-SUFFIX,mangoporn.net,Global
+HOST-SUFFIX,manhuabika.com,Global
 HOST-SUFFIX,manhub.com,Global
 HOST-SUFFIX,manhunt.net,Global
 HOST-SUFFIX,manhuntdaily.com,Global
@@ -11108,6 +11112,7 @@ HOST-SUFFIX,tex-talk.net,Global
 HOST-SUFFIX,texasholdemcup.cn,Global
 HOST-SUFFIX,texttobuy.org,Global
 HOST-SUFFIX,texture.com,Global
+HOST-SUFFIX,tferwq.com,Global
 HOST-SUFFIX,tfsallin.net,Global
 HOST-SUFFIX,tgirlcentral.com,Global
 HOST-SUFFIX,tgirlpostop.com,Global
