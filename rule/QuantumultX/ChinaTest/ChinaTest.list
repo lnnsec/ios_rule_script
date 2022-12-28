@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:10:15
+# UPDATED: 2022-12-29 02:10:07
 # HOST: 174
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 66006
+# HOST-SUFFIX: 66004
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 66234
+# TOTAL: 66232
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -4619,7 +4619,6 @@ HOST-SUFFIX,11xotn7p.com,ChinaTest
 HOST-SUFFIX,11ziyun.com,ChinaTest
 HOST-SUFFIX,120-job.com,ChinaTest
 HOST-SUFFIX,120.net,ChinaTest
-HOST-SUFFIX,12011.org,ChinaTest
 HOST-SUFFIX,120185.com,ChinaTest
 HOST-SUFFIX,120ask.com,ChinaTest
 HOST-SUFFIX,120askimages.com,ChinaTest
@@ -8227,7 +8226,6 @@ HOST-SUFFIX,58wanwan.com,ChinaTest
 HOST-SUFFIX,58woyou.com,ChinaTest
 HOST-SUFFIX,58wzb.com,ChinaTest
 HOST-SUFFIX,58xinrui.com,ChinaTest
-HOST-SUFFIX,58xs.com,ChinaTest
 HOST-SUFFIX,58xs.la,ChinaTest
 HOST-SUFFIX,58xs.tw,ChinaTest
 HOST-SUFFIX,58xuexi.com,ChinaTest
@@ -8378,7 +8376,6 @@ HOST-SUFFIX,5imoban.net,ChinaTest
 HOST-SUFFIX,5imomo.com,ChinaTest
 HOST-SUFFIX,5imx.com,ChinaTest
 HOST-SUFFIX,5imxbbs.com,ChinaTest
-HOST-SUFFIX,5iok.com,ChinaTest
 HOST-SUFFIX,5iops.com,ChinaTest
 HOST-SUFFIX,5ip9.com,ChinaTest
 HOST-SUFFIX,5ipatent.com,ChinaTest
@@ -8700,6 +8697,7 @@ HOST-SUFFIX,66rpg.com,ChinaTest
 HOST-SUFFIX,66ruian.com,ChinaTest
 HOST-SUFFIX,66shouyou.com,ChinaTest
 HOST-SUFFIX,66sj.com,ChinaTest
+HOST-SUFFIX,66ss.org,ChinaTest
 HOST-SUFFIX,66sy.com,ChinaTest
 HOST-SUFFIX,66team.com,ChinaTest
 HOST-SUFFIX,66test.com,ChinaTest
@@ -9444,6 +9442,7 @@ HOST-SUFFIX,8521.org,ChinaTest
 HOST-SUFFIX,85229666.com,ChinaTest
 HOST-SUFFIX,85384.com,ChinaTest
 HOST-SUFFIX,853lab.com,ChinaTest
+HOST-SUFFIX,85462.lc,ChinaTest
 HOST-SUFFIX,8558.org,ChinaTest
 HOST-SUFFIX,85679999.com,ChinaTest
 HOST-SUFFIX,857yzf.com,ChinaTest
@@ -11049,7 +11048,6 @@ HOST-SUFFIX,ahwwnews.com,ChinaTest
 HOST-SUFFIX,ahwxcs.com,ChinaTest
 HOST-SUFFIX,ahxwkj.com,ChinaTest
 HOST-SUFFIX,ahydnet.com,ChinaTest
-HOST-SUFFIX,ahydwy.com,ChinaTest
 HOST-SUFFIX,ahyessoft.com,ChinaTest
 HOST-SUFFIX,ahyouan.com,ChinaTest
 HOST-SUFFIX,ahyouth.com,ChinaTest
@@ -11225,7 +11223,6 @@ HOST-SUFFIX,aimeit.com,ChinaTest
 HOST-SUFFIX,aimipay.net,ChinaTest
 HOST-SUFFIX,aimiplay.com,ChinaTest
 HOST-SUFFIX,aimo.moe,ChinaTest
-HOST-SUFFIX,aimodou.net,ChinaTest
 HOST-SUFFIX,aimoge.com,ChinaTest
 HOST-SUFFIX,aimsen.com,ChinaTest
 HOST-SUFFIX,ainapian.com,ChinaTest
@@ -14219,7 +14216,6 @@ HOST-SUFFIX,bjdfxj.com,ChinaTest
 HOST-SUFFIX,bjdiaoyu.com,ChinaTest
 HOST-SUFFIX,bjdjc.com,ChinaTest
 HOST-SUFFIX,bjdllti.com,ChinaTest
-HOST-SUFFIX,bjdlzl.com,ChinaTest
 HOST-SUFFIX,bjdongxin.com,ChinaTest
 HOST-SUFFIX,bjdsppa.com,ChinaTest
 HOST-SUFFIX,bjeasycom.com,ChinaTest
@@ -14303,6 +14299,7 @@ HOST-SUFFIX,bjmti.com,ChinaTest
 HOST-SUFFIX,bjnaxl.com,ChinaTest
 HOST-SUFFIX,bjnsr.com,ChinaTest
 HOST-SUFFIX,bjp321.com,ChinaTest
+HOST-SUFFIX,bjpag.com,ChinaTest
 HOST-SUFFIX,bjpowernode.com,ChinaTest
 HOST-SUFFIX,bjqcjdcj.com,ChinaTest
 HOST-SUFFIX,bjqh.org,ChinaTest
@@ -14359,7 +14356,6 @@ HOST-SUFFIX,bjtata.com,ChinaTest
 HOST-SUFFIX,bjtcf.com,ChinaTest
 HOST-SUFFIX,bjtelecom.net,ChinaTest
 HOST-SUFFIX,bjtitle.com,ChinaTest
-HOST-SUFFIX,bjtjr.net,ChinaTest
 HOST-SUFFIX,bjtjw.net,ChinaTest
 HOST-SUFFIX,bjtjzx.com,ChinaTest
 HOST-SUFFIX,bjtlky888.com,ChinaTest
@@ -14973,6 +14969,7 @@ HOST-SUFFIX,btvcd.net,ChinaTest
 HOST-SUFFIX,btwob.net,ChinaTest
 HOST-SUFFIX,btwuji.com,ChinaTest
 HOST-SUFFIX,btxl8.com,ChinaTest
+HOST-SUFFIX,btydjxc.com,ChinaTest
 HOST-SUFFIX,btyou.com,ChinaTest
 HOST-SUFFIX,btzhcc.com,ChinaTest
 HOST-SUFFIX,buaaer.com,ChinaTest
@@ -16365,7 +16362,6 @@ HOST-SUFFIX,cgsec.com,ChinaTest
 HOST-SUFFIX,cgsfusion.com,ChinaTest
 HOST-SUFFIX,cgsoft.net,ChinaTest
 HOST-SUFFIX,cgtblog.com,ChinaTest
-HOST-SUFFIX,cgtime.net,ChinaTest
 HOST-SUFFIX,cgtn.com,ChinaTest
 HOST-SUFFIX,cgtsj.com,ChinaTest
 HOST-SUFFIX,cgtsj.org,ChinaTest
@@ -17546,7 +17542,6 @@ HOST-SUFFIX,chiznews.com,ChinaTest
 HOST-SUFFIX,chjso.com,ChinaTest
 HOST-SUFFIX,chkj365.com,ChinaTest
 HOST-SUFFIX,chklingw.com,ChinaTest
-HOST-SUFFIX,chlahb.com,ChinaTest
 HOST-SUFFIX,chloe99.com,ChinaTest
 HOST-SUFFIX,chmecc.org,ChinaTest
 HOST-SUFFIX,chmed.net,ChinaTest
@@ -17959,6 +17954,7 @@ HOST-SUFFIX,cjhospital.com,ChinaTest
 HOST-SUFFIX,cjhxfund.com,ChinaTest
 HOST-SUFFIX,cjienc.com,ChinaTest
 HOST-SUFFIX,cjiit.com,ChinaTest
+HOST-SUFFIX,cjjd04.com,ChinaTest
 HOST-SUFFIX,cjjd08.com,ChinaTest
 HOST-SUFFIX,cjjhb.com,ChinaTest
 HOST-SUFFIX,cjjjs.com,ChinaTest
@@ -18088,6 +18084,7 @@ HOST-SUFFIX,clouddcs.com,ChinaTest
 HOST-SUFFIX,clouddiffuse.xyz,ChinaTest
 HOST-SUFFIX,clouddns.vip,ChinaTest
 HOST-SUFFIX,clouddream.net,ChinaTest
+HOST-SUFFIX,cloudflare-cn.com,ChinaTest
 HOST-SUFFIX,cloudflare520.com,ChinaTest
 HOST-SUFFIX,cloudgap.net,ChinaTest
 HOST-SUFFIX,cloudgfw.com,ChinaTest
@@ -20028,6 +20025,7 @@ HOST-SUFFIX,da-quan.net,ChinaTest
 HOST-SUFFIX,da.anythinktech.com,ChinaTest
 HOST-SUFFIX,da88.net,ChinaTest
 HOST-SUFFIX,daanbar.com,ChinaTest
+HOST-SUFFIX,daanche.com,ChinaTest
 HOST-SUFFIX,daba.com,ChinaTest
 HOST-SUFFIX,dabaicai.com,ChinaTest
 HOST-SUFFIX,dabaicai.org,ChinaTest
@@ -20848,6 +20846,7 @@ HOST-SUFFIX,dexian.mobi,ChinaTest
 HOST-SUFFIX,dexindat.com,ChinaTest
 HOST-SUFFIX,dexingrv.com,ChinaTest
 HOST-SUFFIX,dexinsg.com,ChinaTest
+HOST-SUFFIX,dextercai.com,ChinaTest
 HOST-SUFFIX,dexuee.com,ChinaTest
 HOST-SUFFIX,dexunyun.com,ChinaTest
 HOST-SUFFIX,deyang5.com,ChinaTest
@@ -24200,7 +24199,6 @@ HOST-SUFFIX,fayifa.com,ChinaTest
 HOST-SUFFIX,fayiyi.com,ChinaTest
 HOST-SUFFIX,fayurumen.com,ChinaTest
 HOST-SUFFIX,fazhijx.com,ChinaTest
-HOST-SUFFIX,fazj.org,ChinaTest
 HOST-SUFFIX,fb.mu,ChinaTest
 HOST-SUFFIX,fbabi.com,ChinaTest
 HOST-SUFFIX,fbaichuan.com,ChinaTest
@@ -28560,7 +28558,6 @@ HOST-SUFFIX,hdh.im,ChinaTest
 HOST-SUFFIX,hdhgzx.com,ChinaTest
 HOST-SUFFIX,hdhospital.com,ChinaTest
 HOST-SUFFIX,hdhui.com,ChinaTest
-HOST-SUFFIX,hdingsheng.com,ChinaTest
 HOST-SUFFIX,hdj.me,ChinaTest
 HOST-SUFFIX,hdjay.com,ChinaTest
 HOST-SUFFIX,hdjwww.com,ChinaTest
@@ -30734,7 +30731,6 @@ HOST-SUFFIX,huxiaofan.com,ChinaTest
 HOST-SUFFIX,huxiaoshi.com,ChinaTest
 HOST-SUFFIX,huxingroup.com,ChinaTest
 HOST-SUFFIX,huxiu.link,ChinaTest
-HOST-SUFFIX,huya.cm,ChinaTest
 HOST-SUFFIX,huya040.xyz,ChinaTest
 HOST-SUFFIX,huyahaha.com,ChinaTest
 HOST-SUFFIX,huyanapp.com,ChinaTest
@@ -32110,7 +32106,6 @@ HOST-SUFFIX,imomoe.in,ChinaTest
 HOST-SUFFIX,imomoe.io,ChinaTest
 HOST-SUFFIX,imomoe.jp,ChinaTest
 HOST-SUFFIX,imoocc.com,ChinaTest
-HOST-SUFFIX,imoodou.com,ChinaTest
 HOST-SUFFIX,imoonfm.com,ChinaTest
 HOST-SUFFIX,imooo.com,ChinaTest
 HOST-SUFFIX,imopan.com,ChinaTest
@@ -42829,6 +42824,7 @@ HOST-SUFFIX,ntwzy.com,ChinaTest
 HOST-SUFFIX,ntxiru.com,ChinaTest
 HOST-SUFFIX,ntyswlkj.com,ChinaTest
 HOST-SUFFIX,ntyy888.com,ChinaTest
+HOST-SUFFIX,ntzcb2b.com,ChinaTest
 HOST-SUFFIX,nu1l.com,ChinaTest
 HOST-SUFFIX,nuan.io,ChinaTest
 HOST-SUFFIX,nuandao.com,ChinaTest
@@ -43604,6 +43600,7 @@ HOST-SUFFIX,ouyabosi.com,ChinaTest
 HOST-SUFFIX,ouyada.com,ChinaTest
 HOST-SUFFIX,ouyaoxiazai.com,ChinaTest
 HOST-SUFFIX,ouyeel.com,ChinaTest
+HOST-SUFFIX,ouyi.date,ChinaTest
 HOST-SUFFIX,ouyi.zone,ChinaTest
 HOST-SUFFIX,ouyingyimin.com,ChinaTest
 HOST-SUFFIX,ouzhougoufang.com,ChinaTest
@@ -45565,6 +45562,7 @@ HOST-SUFFIX,qihaxiaoshuo.com,ChinaTest
 HOST-SUFFIX,qihihi.com,ChinaTest
 HOST-SUFFIX,qihu.com,ChinaTest
 HOST-SUFFIX,qihu.org,ChinaTest
+HOST-SUFFIX,qihuapi.com,ChinaTest
 HOST-SUFFIX,qihuiwang.com,ChinaTest
 HOST-SUFFIX,qihuorumen.com,ChinaTest
 HOST-SUFFIX,qii404.me,ChinaTest
@@ -46322,6 +46320,8 @@ HOST-SUFFIX,queniubg.com,ChinaTest
 HOST-SUFFIX,queniucf.com,ChinaTest
 HOST-SUFFIX,queniuck.com,ChinaTest
 HOST-SUFFIX,queniufm.com,ChinaTest
+HOST-SUFFIX,queniuhy.com,ChinaTest
+HOST-SUFFIX,queniukr.com,ChinaTest
 HOST-SUFFIX,queniuso.com,ChinaTest
 HOST-SUFFIX,queniusy.com,ChinaTest
 HOST-SUFFIX,queniuuf.com,ChinaTest
@@ -47654,6 +47654,7 @@ HOST-SUFFIX,saitjr.com,ChinaTest
 HOST-SUFFIX,saiyangame.com,ChinaTest
 HOST-SUFFIX,saiyouedu.net,ChinaTest
 HOST-SUFFIX,saiyunyx.com,ChinaTest
+HOST-SUFFIX,sakesi.club,ChinaTest
 HOST-SUFFIX,sakway.com,ChinaTest
 HOST-SUFFIX,salasolo.com,ChinaTest
 HOST-SUFFIX,saleoilpaintings.com,ChinaTest
@@ -48550,7 +48551,6 @@ HOST-SUFFIX,shanghai-electric.com,ChinaTest
 HOST-SUFFIX,shanghai-intex.com,ChinaTest
 HOST-SUFFIX,shanghai-map.net,ChinaTest
 HOST-SUFFIX,shanghaiairport.com,ChinaTest
-HOST-SUFFIX,shanghaiboxu.com,ChinaTest
 HOST-SUFFIX,shanghaicaiyi.com,ChinaTest
 HOST-SUFFIX,shanghaichannel.net,ChinaTest
 HOST-SUFFIX,shanghaiconcerthall.org,ChinaTest
@@ -49084,6 +49084,7 @@ HOST-SUFFIX,shiyicunxiao.com,ChinaTest
 HOST-SUFFIX,shiyide.com,ChinaTest
 HOST-SUFFIX,shiyiyx.com,ChinaTest
 HOST-SUFFIX,shiyongjun.biz,ChinaTest
+HOST-SUFFIX,shiyouhome.com,ChinaTest
 HOST-SUFFIX,shiyousan.com,ChinaTest
 HOST-SUFFIX,shiyu.pro,ChinaTest
 HOST-SUFFIX,shiyue.com,ChinaTest
@@ -51621,6 +51622,7 @@ HOST-SUFFIX,szaisino.com,ChinaTest
 HOST-SUFFIX,szaiten.com,ChinaTest
 HOST-SUFFIX,szande.com,ChinaTest
 HOST-SUFFIX,szaudio.com,ChinaTest
+HOST-SUFFIX,szbaoly.com,ChinaTest
 HOST-SUFFIX,szbbs.org,ChinaTest
 HOST-SUFFIX,szbcase.com,ChinaTest
 HOST-SUFFIX,szbeilu888.com,ChinaTest
@@ -52136,7 +52138,6 @@ HOST-SUFFIX,taokewenan.com,ChinaTest
 HOST-SUFFIX,taokezhushou.com,ChinaTest
 HOST-SUFFIX,taokouling.com,ChinaTest
 HOST-SUFFIX,taoku.com,ChinaTest
-HOST-SUFFIX,taolusm.com,ChinaTest
 HOST-SUFFIX,taoluzhibo56.com,ChinaTest
 HOST-SUFFIX,taolvtong.com,ChinaTest
 HOST-SUFFIX,taolx.com,ChinaTest
@@ -53056,6 +53057,7 @@ HOST-SUFFIX,tjzentan.com,ChinaTest
 HOST-SUFFIX,tjzfcg.com,ChinaTest
 HOST-SUFFIX,tjzhongyiyao.com,ChinaTest
 HOST-SUFFIX,tjzyec.com,ChinaTest
+HOST-SUFFIX,tjzyfw.com,ChinaTest
 HOST-SUFFIX,tk-rays.com,ChinaTest
 HOST-SUFFIX,tk-xiong.com,ChinaTest
 HOST-SUFFIX,tk.anythinktech.com,ChinaTest
@@ -54279,7 +54281,6 @@ HOST-SUFFIX,uavvv.com,ChinaTest
 HOST-SUFFIX,uayangtze-volga.org,ChinaTest
 HOST-SUFFIX,ub-os.com,ChinaTest
 HOST-SUFFIX,ub.cc,ChinaTest
-HOST-SUFFIX,ub666.cc,ChinaTest
 HOST-SUFFIX,uban.com,ChinaTest
 HOST-SUFFIX,ubangmang.com,ChinaTest
 HOST-SUFFIX,ubersz.com,ChinaTest
@@ -55559,6 +55560,7 @@ HOST-SUFFIX,vvic.com,ChinaTest
 HOST-SUFFIX,vvipcdn.com,ChinaTest
 HOST-SUFFIX,vvjob.com,ChinaTest
 HOST-SUFFIX,vvkaoyan.com,ChinaTest
+HOST-SUFFIX,vvl.cc,ChinaTest
 HOST-SUFFIX,vvmeiju.com,ChinaTest
 HOST-SUFFIX,vvo2o.com,ChinaTest
 HOST-SUFFIX,vvpgwg.xyz,ChinaTest
@@ -56699,6 +56701,7 @@ HOST-SUFFIX,wezhan.us,ChinaTest
 HOST-SUFFIX,wezhuiyi.com,ChinaTest
 HOST-SUFFIX,wf163.com,ChinaTest
 HOST-SUFFIX,wf66.com,ChinaTest
+HOST-SUFFIX,wfaozhuo.com,ChinaTest
 HOST-SUFFIX,wfbaiyou.com,ChinaTest
 HOST-SUFFIX,wfbbs.com,ChinaTest
 HOST-SUFFIX,wfbrood.com,ChinaTest
@@ -56985,7 +56988,6 @@ HOST-SUFFIX,whuh.com,ChinaTest
 HOST-SUFFIX,whuhzzs.com,ChinaTest
 HOST-SUFFIX,whuspark.com,ChinaTest
 HOST-SUFFIX,whuss.com,ChinaTest
-HOST-SUFFIX,whusu.org,ChinaTest
 HOST-SUFFIX,whut-px.com,ChinaTest
 HOST-SUFFIX,whutech.com,ChinaTest
 HOST-SUFFIX,whwanshun.com,ChinaTest
@@ -59681,7 +59683,6 @@ HOST-SUFFIX,xiunian.wang,ChinaTest
 HOST-SUFFIX,xiuno.com,ChinaTest
 HOST-SUFFIX,xiupin.com,ChinaTest
 HOST-SUFFIX,xiuren.com,ChinaTest
-HOST-SUFFIX,xiurenb.com,ChinaTest
 HOST-SUFFIX,xiushao.com,ChinaTest
 HOST-SUFFIX,xiusheji.com,ChinaTest
 HOST-SUFFIX,xiusheji.net,ChinaTest
@@ -59966,10 +59967,7 @@ HOST-SUFFIX,xmsoft.com,ChinaTest
 HOST-SUFFIX,xmsoushu.com,ChinaTest
 HOST-SUFFIX,xmspace.net,ChinaTest
 HOST-SUFFIX,xmtbang.com,ChinaTest
-HOST-SUFFIX,xmttz02.pw,ChinaTest
 HOST-SUFFIX,xmtyy.net,ChinaTest
-HOST-SUFFIX,xmtyy02.pw,ChinaTest
-HOST-SUFFIX,xmtyy04.pw,ChinaTest
 HOST-SUFFIX,xmuchong.com,ChinaTest
 HOST-SUFFIX,xmuli.tech,ChinaTest
 HOST-SUFFIX,xmwan.com,ChinaTest
@@ -61623,6 +61621,7 @@ HOST-SUFFIX,yingyonghao8.com,ChinaTest
 HOST-SUFFIX,yingyonghui.com,ChinaTest
 HOST-SUFFIX,yingyongmiao.com,ChinaTest
 HOST-SUFFIX,yingyu.com,ChinaTest
+HOST-SUFFIX,yingyuchat.com,ChinaTest
 HOST-SUFFIX,yingyurumen.com,ChinaTest
 HOST-SUFFIX,yingyushijie.com,ChinaTest
 HOST-SUFFIX,yingyuweb.com,ChinaTest
@@ -63304,7 +63303,6 @@ HOST-SUFFIX,yx-s.net,ChinaTest
 HOST-SUFFIX,yx0599.com,ChinaTest
 HOST-SUFFIX,yx090.com,ChinaTest
 HOST-SUFFIX,yx10011.com,ChinaTest
-HOST-SUFFIX,yx129.net,ChinaTest
 HOST-SUFFIX,yx192.com,ChinaTest
 HOST-SUFFIX,yx231.com,ChinaTest
 HOST-SUFFIX,yx643.com,ChinaTest
@@ -63392,7 +63390,6 @@ HOST-SUFFIX,yy6080.org,ChinaTest
 HOST-SUFFIX,yy845.com,ChinaTest
 HOST-SUFFIX,yyasp.net,ChinaTest
 HOST-SUFFIX,yybox.cc,ChinaTest
-HOST-SUFFIX,yyccia.com,ChinaTest
 HOST-SUFFIX,yycec.com,ChinaTest
 HOST-SUFFIX,yyclouds.com,ChinaTest
 HOST-SUFFIX,yyclub.org,ChinaTest
@@ -63795,6 +63792,7 @@ HOST-SUFFIX,zechoriah.com,ChinaTest
 HOST-SUFFIX,zechunbengye.com,ChinaTest
 HOST-SUFFIX,zeda1.com,ChinaTest
 HOST-SUFFIX,zedukm.com,ChinaTest
+HOST-SUFFIX,zeekrlife.com,ChinaTest
 HOST-SUFFIX,zeelis.com,ChinaTest
 HOST-SUFFIX,zeesin.com,ChinaTest
 HOST-SUFFIX,zego.im,ChinaTest

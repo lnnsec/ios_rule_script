@@ -19,14 +19,14 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-12-28 02:12:31
+最后更新时间：2022-12-29 02:11:21
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | IP-ASN | 932  | 
-| IP-CIDR | 10651  | 
-| TOTAL | 11583  | 
+| IP-CIDR | 10887  | 
+| TOTAL | 11819  | 
 
 
 ## Shadowrocket 
@@ -86,7 +86,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 
 
